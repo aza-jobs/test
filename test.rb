@@ -1,3 +1,3 @@
 require 'open-uri'
 
-url = "http://www.yahoo.co.jp"
+url = "http://www.yahoo.ne.jp"
